@@ -1,8 +1,8 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+pandas as pd
+matplotlib.pyplot as plt
+seaborn as sns
 
-import streamlit as st
+streamlit as st
 
 st.set_page_config(
    page_title="SuperStore Dashboard", 
